@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package xyz.trebellar.tareadi02;
+package xyz.trebellar.recursos_clase;
 
 import javafx.application.Application;
 
